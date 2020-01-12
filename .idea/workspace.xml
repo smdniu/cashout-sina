@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8653e81e-0fdb-4970-acf1-a967488e5cc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mengdi9\software\maven-repo" />
+        <option name="mavenHome" value="D:/mengdi9/software/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1W3NOjgMKfANnBYPsIPpsCss57a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/tensquare/code/tensquare_parent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects-test\sinafinance\sinafinance-common\src\main\java\com\sinafinance\utils" />
+      <recent name="D:\projects-test\sinafinance\sinafinance-cash\src\main\resources\dev" />
+      <recent name="D:\projects-test\sinafinance\sinafinance-common\src\main\java\com\sinafinance\pojo" />
+      <recent name="D:\projects-test\sinafinance\sinafinance-cash\src\main\java\com\sinafinance\dao\mysql\mapper" />
+      <recent name="D:\projects-test\sinafinance\sinafinance-cash\src\main\java\com\sinafinance\service\impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sinafinance.service" />
+      <recent name="com.sinafinance.dao.mysql.mapper" />
+      <recent name="com.sinafinance.service.impl" />
+      <recent name="com.sinafinance.utils" />
+      <recent name="com.sinafinance.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects-test\sinafinance\sinafinance-cash\src\main\resources\static" />
+      <recent name="D:\projects-test\sinafinance\sinafinance-cash\src\main\resources" />
+      <recent name="D:\projects-test\sinafinance\sinafinance-cash\src\main\resources\dev" />
+      <recent name="D:\projects-test\sinafinance\sinafinance-cash\src\main\resources\base" />
+      <recent name="D:\projects-test\sinafinance\sinafinance-sso\src\main\resources\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CashApplication">
+    <configuration name="CashApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sinafinance.CashApplication" />
+      <module name="sinafinance-cash" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinafinance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMapper.testSelectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sinafinance-cash" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sinafinance.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sinafinance.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sinafinance.test.TestMapper" />
+      <option name="METHOD_NAME" value="testSelectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sinafinance-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sinafinance.security.SsoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SsoClient2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sso-client2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.merryyou.soo.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.merryyou.soo.client.SsoClient2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CashApplication" />
+        <item itemvalue="JUnit.TestMapper.testSelectAll" />
+        <item itemvalue="Spring Boot.SsoClient2Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86182\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8653e81e-0fdb-4970-acf1-a967488e5cc4" name="Default Changelist" comment="" />
+      <created>1578374287838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578374287838</updated>
+      <workItem from="1578374289384" duration="21296000" />
+      <workItem from="1578397957633" duration="36054000" />
+      <workItem from="1578625009326" duration="19038000" />
+      <workItem from="1578795905912" duration="3364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1578798538417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1578798538417" />
+    <state x="484" y="39" key="#com.intellij.ide.util.MemberChooser" timestamp="1578798621586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578639152461" />
+    <state x="2046" y="56" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1578654600647" />
+    <state x="484" y="39" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578798621586" />
+    <state x="213" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578797020695">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1578797020695" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578448295997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578448295997" />
+    <state x="327" y="215" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1578397851540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="327" y="215" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1578397851540" />
+    <state width="449" height="466" key="DebuggerActiveHint" timestamp="1578470088585">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="449" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1578470088585" />
+    <state x="783" y="151" key="FileChooserDialogImpl" timestamp="1578798066883">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="783" y="151" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578635002366" />
+    <state x="783" y="151" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578798066883" />
+    <state width="1323" height="254" key="GridCell.Tab.0.bottom" timestamp="1578798624875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107505" />
+    <state width="1323" height="254" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578798624875" />
+    <state width="1323" height="254" key="GridCell.Tab.0.center" timestamp="1578798624875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107505" />
+    <state width="1323" height="254" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578798624875" />
+    <state width="1323" height="254" key="GridCell.Tab.0.left" timestamp="1578798624875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107504" />
+    <state width="1323" height="254" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578798624875" />
+    <state width="1323" height="254" key="GridCell.Tab.0.right" timestamp="1578798624875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107505" />
+    <state width="1323" height="254" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578798624875" />
+    <state width="1323" height="254" key="GridCell.Tab.1.bottom" timestamp="1578798624745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107506" />
+    <state width="1323" height="254" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578798624745" />
+    <state width="1323" height="254" key="GridCell.Tab.1.center" timestamp="1578798624745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107505" />
+    <state width="1323" height="254" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578798624745" />
+    <state width="1323" height="254" key="GridCell.Tab.1.left" timestamp="1578798624745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107505" />
+    <state width="1323" height="254" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578798624745" />
+    <state width="1323" height="254" key="GridCell.Tab.1.right" timestamp="1578798624745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107505" />
+    <state width="1323" height="254" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578798624745" />
+    <state width="1323" height="139" key="GridCell.Tab.2.bottom" timestamp="1578797278789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.2.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107506" />
+    <state width="1323" height="139" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578797278789" />
+    <state width="1323" height="139" key="GridCell.Tab.2.center" timestamp="1578797278789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.2.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107506" />
+    <state width="1323" height="139" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1578797278789" />
+    <state width="1323" height="139" key="GridCell.Tab.2.left" timestamp="1578797278788">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.2.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107506" />
+    <state width="1323" height="139" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1578797278788" />
+    <state width="1323" height="139" key="GridCell.Tab.2.right" timestamp="1578797278789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="180" key="GridCell.Tab.2.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578480107506" />
+    <state width="1323" height="139" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1578797278789" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1578473758844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1578473758844" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1578626585395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578626585395" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1578397941902" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1578470026466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1578470026466" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1578381705894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1578381705894" />
+    <state x="218" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578477175475">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="218" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578477175475" />
+    <state x="218" y="100" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1578469233600" />
+    <state x="523" y="194" width="721" height="534" key="find.popup" timestamp="1578559445702">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="523" y="194" width="721" height="534" key="find.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578559445702" />
+    <state x="523" y="194" width="721" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1578394470557" />
+    <state x="115" y="90" key="new project wizard" timestamp="1578541878964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="90" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578541878964" />
+    <state x="115" y="90" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1578377949620" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1578797961324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1578626297229" />
+    <state x="1852" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1578652716434" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1578797961324" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="targetUrl" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
